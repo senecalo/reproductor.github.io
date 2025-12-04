@@ -1,0 +1,5 @@
+{
+  "name": "PyMusic GenAI",
+  "description": "Un generador de código Python impulsado por IA para crear reproductores de música, acompañado de una simulación web funcional.",
+  "requestFramePermissions": []
+}
